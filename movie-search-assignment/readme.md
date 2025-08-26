@@ -26,7 +26,7 @@ This project implements a semantic search engine that finds movies based on plot
 ```bash
 git clone https://github.com/Fresh04/AI-Systems-Development.git
 cd AI-Systems-Development
-cd Assignment-I
+cd movie-search-assignment
 ```
 
 2. Create and activate a virtual environment:
