@@ -1,3 +1,8 @@
+## Author
+
+**Dhyanendra Tripathi**  
+Roll Number: 221010218
+
 # Movie Semantic Search Assignment
 
 This folder contains my solution for the Assignment-I of AI systems development course - Semantic search on movie plots assignment using **SentenceTransformers**.
@@ -116,8 +121,3 @@ jupyter==1.0.0
 - Handles top_n parameter correctly
 - Includes unit tests
 - Complete Jupyter notebook implementation
-
-## Author
-
-**Dhyanendra Tripathi**  
-Roll Number: 221010218
